@@ -1,5 +1,5 @@
 # Chen Ultrasound Laboratory  
-*Department of Biomedical Engineering & Neurosurgery, Washington University in St. Louis*
+>*Department of Biomedical Engineering & Neurosurgery, Washington University in St. Louis*
 
 ## 👋 Welcome  
 Welcome to the home of the **Chen Ultrasound Laboratory (Chen Lab)** at Washington University in St. Louis. Our interdisciplinary team brings together engineering, biology, and medicine to push the boundaries of non-invasive ultrasound technologies for neuroscience and brain disease treatment.  
